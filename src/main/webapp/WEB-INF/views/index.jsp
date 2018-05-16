@@ -15,7 +15,7 @@
             <div class="container">
                 <h3>
                     Welcome to the Road Improvement System!<br/>
-                    The best site for information on pot holes .
+                    The best site for information on pot holes.
                 </h3>
             </div>
         </div>
