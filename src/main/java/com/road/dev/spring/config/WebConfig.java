@@ -1,4 +1,4 @@
-package com.agile.and.beyond.spring.config;
+package com.road.dev.spring.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.JstlView;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = {"com.agile.and.beyond.spring.controller"})
+@ComponentScan(basePackages = {"com.road.dev.spring.controller"})
 public class WebConfig implements WebMvcConfigurer {
 
     @Bean

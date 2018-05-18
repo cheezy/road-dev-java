@@ -1,4 +1,4 @@
-package com.agile.and.beyond.spring.config;
+package com.road.dev.spring.config;
 
 import org.springframework.context.annotation.Configuration;
 

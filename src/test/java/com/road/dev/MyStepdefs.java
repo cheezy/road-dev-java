@@ -1,9 +1,8 @@
-package com.agile.and.beyond;
+package com.road.dev;
 
 import static org.junit.Assert.*;
-import com.agile.and.beyond.pages.LoginPage;
-import com.agile.and.beyond.pages.WelcomePage;
-import cucumber.api.PendingException;
+import com.road.dev.pages.LoginPage;
+import com.road.dev.pages.WelcomePage;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
