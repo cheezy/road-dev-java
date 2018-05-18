@@ -6,6 +6,6 @@ public class HomePage extends BasePageObject {
 
     public HomePage(WebDriver driver) {
         super(driver);
-        url = "http://localhost:8080";
+        url = "http://localhost:8085";
     }
 }
