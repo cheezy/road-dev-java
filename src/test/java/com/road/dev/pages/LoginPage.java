@@ -12,7 +12,7 @@ public class LoginPage extends BasePageObject {
 
     public LoginPage(WebDriver driver) {
         super(driver);
-        url = "http://localhost:8080/login";
+        url = "http://localhost:8085/login";
     }
 
     public void login(String username, String password) {
